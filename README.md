@@ -29,6 +29,7 @@ The goal of this project was to build a database that handles the following:
 ## Why This Database?
 
 The main purpose of this database is to make it easy to manage exhibitor and visitor info for exhibitions. It’s designed to track who’s presenting what and get feedback from visitors. It’s a simple, no-frills setup, but should work for basic exhibition management.
+![Alt text](EER_diagram.JPG)
 
 ---
 
